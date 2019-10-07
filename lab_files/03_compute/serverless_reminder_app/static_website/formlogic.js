@@ -1,8 +1,8 @@
-// Replace the YOUR_API_ENDPOINT_URL with yours
+// Replace the _API_ENDPOINT_URL with yours
 // It should look something like this:
 // https://example1a2s3d.execute-api.us-east-1.amazonaws.com/prod/reminders
 
-var API_ENDPOINT = 'UPDATETOYOURENDPOINTADDRESS/reminders';
+var API_ENDPOINT = 'https://25ur71pp0l.execute-api.us-east-1.amazonaws.com/prod/reminders';
 
 // Setup divs that will be used to display interactive messages
 var errorDiv = document.getElementById('error-message')
